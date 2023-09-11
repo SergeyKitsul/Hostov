@@ -1,4 +1,4 @@
-cd "C:\OSPanel\domains\GitHub\Kitsul"
+cd "C:\OSPanel\domains\GitHub\Hostov"
 
 git add .
 
